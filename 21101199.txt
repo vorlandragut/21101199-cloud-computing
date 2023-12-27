@@ -1,3 +1,4 @@
-nama : gregorius volansius ragut
-nim  : 21101199
+nama    : gregorius volansius ragut
+nim     : 21101199
 matkul  : cloud computing
+kelas   : Q
